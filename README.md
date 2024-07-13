@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @AdarshHuggi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Adarsh Huggi
+Data Engineer at TechMahindra
 
-<!---
-AdarshHuggi/AdarshHuggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+Hello! I'm Adarsh Huggi, a passionate Data Engineer currently working at TechMahindra. With a strong background in data analysis, machine learning, and database management, I thrive on transforming raw data into actionable insights. My work involves designing and implementing efficient data pipelines, optimizing database performance, and ensuring data integrity.
+
+Skills:
+Programming Languages: Python, SQL
+Database Technologies: DuckDB, PostgreSQL, MySQL
+Machine Learning: Scikit-learn
+Version Control: Git, GitHub, BitBucket
